@@ -56,7 +56,7 @@ The table below lists leading commercial webhook management and event delivery s
 
 ## 🔓 Open-Source GitHub Projects
 
-Webhook integration management is a thriving open-source domain. Below are top self-hosted webhook gateways, automation engines, and delivery tools, **sorted by GitHub Star Count (descending)**:
+Webhook integration management is a thriving open-source domain. Below are top self-hosted webhook gateways, automation engines, and delivery tools, **sorted by GitHub Stars_Count (descending)**:
 
 1. **[n8n](https://github.com/n8n-io/n8n)** — [<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="n8n stars"/>](https://github.com/n8n-io/n8n/stargazers) **(206,700+ ⭐ Stars)**  
    *Fair-code workflow automation engine featuring native webhook triggers, custom HTTP responses, complex JSON transformations, and self-hosted privacy.*
@@ -110,7 +110,7 @@ When designing a production webhook stack, architecture decisions fall into two 
 We welcome contributions from integration engineers, platform developers, and open-source creators!
 
 1. 🍴 **Fork** this repository.
-2. 📝 **Add or update** entries in `README.md` maintaining the existing structure (ensure accurate pricing, star counts, and links).
+2. 📝 **Add or update** entries in `README.md` maintaining the existing structure (ensure accurate pricing, Stars_Counts, and links).
 3. 🧪 Verify all markdown links and badge formatting.
 4. 🚀 Submit a **Pull Request** with a brief summary of the changes.
 
