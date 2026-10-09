@@ -1,4 +1,4 @@
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Webhook-Integration-Management/pulls)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Webhook-Integration-Management/pulls) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 # ⚡ Awesome Webhook Integration Management
 
@@ -27,6 +27,8 @@ Whether you are building outbound webhook dispatchers (like Svix or Convoy) or i
 - [⚙️ Architectural Patterns & Comparison](#%EF%B8%8F-architectural-patterns--comparison)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [❤️ Support & Sponsor](#%EF%B8%8F-support--sponsor)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -122,7 +124,25 @@ We welcome contributions from integration engineers, platform developers, and op
 
 ---
 
-<p center="align">
-  <b>Made for integration engineers, platform teams, and developer infrastructure architects.</b><br/>
+## ❤️ Support & Sponsor
+
+Thank you for visiting and supporting the **Awesome Webhook Integration Management** directory!
+
+If you find this project valuable for your integration stack, platform research, or team projects:
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** it to keep a personal reference or contribute new entries.
+- 📢 **Share** it with your engineering colleagues and developer communities.
+- ☕ **Sponsor / Buy me a coffee**: Support ongoing maintenance and curated developer resources via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Webhook-Integration-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Webhook-Integration-Management&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for integration engineers, platform teams, and developer infrastructure architects.</b><br/>
   <i>Let's make real-time webhook infrastructure more open, reliable, and secure.</i>
 </p>
